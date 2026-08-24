@@ -1,8 +1,8 @@
-# Olá, eu sou o Rogerio Otavio! 👋
+# Olá, eu sou o Rogerio Otávio Filho! 👋
 
 ### Desenvolvedor Full Stack & Especialista em IA Generativa aplicada
 
-Sou graduando em Sistemas de Informação pelo CEFET-MG e atuo no desenvolvimento de soluções tecnológicas que equilibram agilidade técnica, visão sistêmica e impacto real. Minha paixão é criar desde plataformas web robustas (SaaS) até assistentes virtuais inteligentes que resolvem problemas complexos de forma intuitiva.
+Sou graduando em Sistemas de Informação pelo CEFET-MG e atuo no desenvolvimento de soluções tecnológicas que equilibram agilidade técnica, visão sistêmica e impacto real. Minha paixão é criar desde plataformas web robustas até assistentes virtuais inteligentes que resolvem problemas complexos de forma intuitiva.
 
 ---
 
@@ -42,7 +42,7 @@ Sou graduando em Sistemas de Informação pelo CEFET-MG e atuo no desenvolviment
   <a href="mailto:rogerinhootavio@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="www.linkedin.com/in/rogerio-otávio-filho-2319472b8" target="_blank">
+  <a href="https:www.linkedin.com/in/rogerio-otávio-filho-2319472b8" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
