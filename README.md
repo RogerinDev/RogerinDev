@@ -1,29 +1,29 @@
 <div align="center">
 
-  <!-- Título Principal e Animação de Digitação -->
-  <h1>Rogerio Otávio Filho <h1>
+  <h1>Rogerio Otávio Filho</h1>
 
   <a href="https://github.com/RogerinDev">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3ECF8E&center=true&vCenter=true&width=650&lines=Desenvolvedor+Full+Stack+%26+AI+Engineer;TypeScript+%7C+Next.js+%7C+Python+%7C+FastAPI;Arquitetura+RAG+%26+Bancos+Vetoriais+(pgvector);Sistemas+de+Informa%C3%A7%C3%A3o+@+UFCI-MG+(CEFET-MG)" alt="Typing SVG" />
   </a>
 
+  <br><br>
+
   <p align="center">
-    Graduando do 6º período em <b>Sistemas de Informação</b> pela <b>UFCI-MG (antigo CEFET-MG)</b>.<br>
-    Desenvolvo soluções tecnológicas de ponta a ponta — desde plataformas web responsivas e escaláveis até arquiteturas de <b>Inteligência Artificial Generativa (RAG)</b> aplicadas a problemas reais do mercado.
+    🎓 <b>Sistemas de Informação (6º Período)</b> • <code>UFCI-MG / antigo CEFET-MG</code>
   </p>
 
-  <!-- Badges de Contato e Links Rápidos -->
   <p align="center">
-    <a href="https://www.linkedin.com/in/rogerio-otávio-filho-2319472b8" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:rogerinhootavio@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-    </a>
-    <a href="https://rogerindev.github.io/raizes-digitais-portfolio/" target="_blank">
-      <img src="https://img.shields.io/badge/Portf%C3%B3lio_Ra%C3%ADzes_Digitais-000000?style=for-the-badge&logo=vercel&logoColor=3ECF8E" alt="Portfólio" />
-    </a>
+    Construo soluções de software de ponta a ponta — unindo interfaces web modernas<br>
+    em <code>Next.js</code> e <code>TypeScript</code> a arquiteturas de <b>IA Generativa (RAG)</b> em <code>Python</code><br>
+    para resolver problemas reais com performance e confiabilidade.
   </p>
+
+  <br>
+
+  <p align="center">
+    <a href="https://www.linkedin.com/in/rogerio-otávio-filho-2319472b8" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;<a href="mailto:rogerinhootavio@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>&nbsp;&nbsp;<a href="https://rogerindev.github.io/raizes-digitais-portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portf%C3%B3lio_Ra%C3%ADzes_Digitais-000000?style=for-the-badge&logo=vercel&logoColor=3ECF8E" alt="Portfólio" /></a>
+  </p>
+
 </div>
 
 ---
@@ -75,12 +75,7 @@
         <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black"/>
       </p>
       <p align="center">
-        <a href="https://rogerindev.github.io/raizes-digitais-portfolio/" target="_blank">
-          <img src="https://img.shields.io/badge/🌐_Ver_Portf%C3%B3lio_Web-3ECF8E?style=for-the-badge&logoColor=black" alt="Portfólio Raízes Digitais"/>
-        </a>
-        <a href="https://github.com/RogerinDev/raizes-digitais" target="_blank">
-          <img src="https://img.shields.io/badge/📂_Reposit%C3%B3rio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositório Raízes Digitais"/>
-        </a>
+        <a href="https://rogerindev.github.io/raizes-digitais-portfolio/" target="_blank"><img src="https://img.shields.io/badge/🌐_Ver_Portf%C3%B3lio_Web-3ECF8E?style=for-the-badge&logoColor=black" alt="Portfólio Raízes Digitais"/></a>&nbsp;&nbsp;<a href="https://github.com/RogerinDev/raizes-digitais" target="_blank"><img src="https://img.shields.io/badge/📂_Reposit%C3%B3rio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositório Raízes Digitais"/></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -95,9 +90,7 @@
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
       </p>
       <p align="center">
-        <a href="https://github.com/RogerinDev/semea-digital" target="_blank">
-          <img src="https://img.shields.io/badge/📂_Acessar_Reposit%C3%B3rio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositório SEMEA Digital"/>
-        </a>
+        <a href="https://github.com/RogerinDev/semea-digital" target="_blank"><img src="https://img.shields.io/badge/📂_Acessar_Reposit%C3%B3rio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositório SEMEA Digital"/></a>
       </p>
     </td>
   </tr>
