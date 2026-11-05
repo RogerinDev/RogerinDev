@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Título Principal e Animação de Digitação -->
-  <h1>Rogerio Otávio Filho/h1>
+  <h1>Rogerio Otávio Filho <h1>
 
   <a href="https://github.com/RogerinDev">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3ECF8E&center=true&vCenter=true&width=650&lines=Desenvolvedor+Full+Stack+%26+AI+Engineer;TypeScript+%7C+Next.js+%7C+Python+%7C+FastAPI;Arquitetura+RAG+%26+Bancos+Vetoriais+(pgvector);Sistemas+de+Informa%C3%A7%C3%A3o+@+UFCI-MG+(CEFET-MG)" alt="Typing SVG" />
